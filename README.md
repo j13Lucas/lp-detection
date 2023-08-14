@@ -69,7 +69,11 @@ The tensorboard logs can be found [here](https://tensorboard.dev/experiment/51u0
 ### Sample Video Inference
 
 
-[![detecting plates]()](./visuals/245353415-de385e33-e02b-4ac3-9bce-6c1d64264d56.mp4)
+
+https://github.com/j13Lucas/lp-detection/assets/141825992/f3b10a88-f9e2-4d92-b408-44e61d9a3e37
+
+
+
 
 ---
 
